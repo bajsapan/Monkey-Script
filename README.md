@@ -1,4 +1,6 @@
-# Monkey Script 1.0.0 
+# Monkey Script 1.0.0 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QT54MSJR6QU7Y">
+  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
+</a>
 
 Monkey Script is a new programming/scripting language that is made with Python [PULL REQUESTS ARE OPEN] [COMMITS ARE OPEN]
 (Please if you find a bug make an issue)
